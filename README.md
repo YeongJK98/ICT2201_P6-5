@@ -11,10 +11,11 @@ ICT2101/2201 Team Project
 ### Project Team
 | Project Role  | Name |
 | ------------- | ------------- |
-| Team Lead | . |
-| FS Developer | . |
+| Team Lead | Hakiim |
+| Full Stack Developer | JK, Hakiim |
+| FS Developer | Melvin |
 | Backend Developer | . |
-| QA Engineer | . |
+| QA Engineer | Melvin |
 ### How to use
 ### Update Log
 An update and changes log can be found here in our [Roadmap Board][roadmap].
