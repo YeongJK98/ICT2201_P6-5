@@ -2,6 +2,7 @@
 ICT2101/2201 Team Project
 
 ## Overview
+This project aims to improve and alleviate workload management concerns in small-time retail vendors and businesses. Current goals  are to research and  develop a web-based workload management system for a Pharmacy Shop chains' staffing issues, that satisfies the needs and requirements of such activities, whilst providing convenience and maintaing usability.
 
 ### Table of contents
 * [Project Team](#project-team)
