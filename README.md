@@ -13,9 +13,9 @@ This project aims to improve and alleviate workload management concerns in small
 | Project Role  | Name |
 | ------------- | ------------- |
 | Team Lead | Hakiim |
-| Full Stack Developer | JK, Hakiim |
+| Full Stack Developer | Derrick |
 | FS Developer | Melvin |
-| Backend Developer | Derrick |
+| Backend Developer | JK |
 | QA Engineer | Melvin |
 ### How to use
 ### Update Log
