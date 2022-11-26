@@ -21,7 +21,7 @@ This project aims to improve and alleviate workload management concerns in small
 
 
 ### How to use
-Code provided is written in different language due to being an initial prototype, however the idea is to develop the system in NodeJS and React Native. To showcase the idea of how the interface looks like, Figma has been used to create a wireframe for visual aid.
+Code provided is written in different language due to being an initial prototype, however the idea is to develop the system in NodeJS and React Native. To showcase the idea of how the interface looks like, Figma has been used to create a wireframe for visual aid. It is recommended to run the code via Visual Studio.
 
 User Interface Prototype: https://www.figma.com/file/SxHJZoMtLk4fnwF0Xu8UIa/ICT2201-Prototype?node-id=57%3A2575&t=nmlTHvBNipDXTAaY-1  
 
