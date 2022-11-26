@@ -12,15 +12,17 @@ This project aims to improve and alleviate workload management concerns in small
 ### Project Team
 | Project Role  | Name |
 | ------------- | ------------- |
-| Team Lead | Hakiim |
-| Full Stack Developer | Derrick |
+| Team Lead | JK |
+| Full Stack Developer | Derrick, JK |
 | FS Developer | Melvin |
-| Backend Developer | JK |
+| Backend Developer | Hakiim |
 | QA Engineer | Melvin |
 
-User Interface Prototype: https://www.figma.com/file/SxHJZoMtLk4fnwF0Xu8UIa/ICT2201-Prototype?node-id=57%3A2575&t=nmlTHvBNipDXTAaY-1  
+
 
 ### How to use
+User Interface Prototype: https://www.figma.com/file/SxHJZoMtLk4fnwF0Xu8UIa/ICT2201-Prototype?node-id=57%3A2575&t=nmlTHvBNipDXTAaY-1  
+
 ### Update Log
 An update and changes log can be found here in our [Roadmap Board][roadmap].
 
