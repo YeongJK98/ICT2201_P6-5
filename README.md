@@ -17,10 +17,11 @@ This project aims to improve and alleviate workload management concerns in small
 | FS Developer | Melvin |
 | Backend Developer | JK |
 | QA Engineer | Melvin |
+
+[User Interface Prototype]: https://www.figma.com/file/SxHJZoMtLk4fnwF0Xu8UIa/ICT2201-Prototype?node-id=57%3A2575&t=nmlTHvBNipDXTAaY-1  
+
 ### How to use
 ### Update Log
 An update and changes log can be found here in our [Roadmap Board][roadmap].
-
-[User Interface Prototype]: https://www.figma.com/file/SxHJZoMtLk4fnwF0Xu8UIa/ICT2201-Prototype?node-id=57%3A2575&t=nmlTHvBNipDXTAaY-1  
 
 [roadmap]: https://github.com/YeongJK98/Workload-Management-System/projects
