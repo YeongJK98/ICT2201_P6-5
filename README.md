@@ -18,7 +18,7 @@ This project aims to improve and alleviate workload management concerns in small
 | Backend Developer | JK |
 | QA Engineer | Melvin |
 
-[User Interface Prototype]: https://www.figma.com/file/SxHJZoMtLk4fnwF0Xu8UIa/ICT2201-Prototype?node-id=57%3A2575&t=nmlTHvBNipDXTAaY-1  
+User Interface Prototype: https://www.figma.com/file/SxHJZoMtLk4fnwF0Xu8UIa/ICT2201-Prototype?node-id=57%3A2575&t=nmlTHvBNipDXTAaY-1  
 
 ### How to use
 ### Update Log
